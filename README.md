@@ -1,6 +1,6 @@
 # Test Suite for Order Processing API
 
-## Instructions: 
+## Instructions for test execution
 
 ### (1) Download this repo
 ```
