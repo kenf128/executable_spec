@@ -1,4 +1,4 @@
-# Sample Test Scenarios for Order Processing API
+# Sample Executable Specifications
 
 ```Testing http://localhost:51544/v1
 
