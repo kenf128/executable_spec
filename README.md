@@ -1,29 +1,6 @@
-# Test Suite for Order Processing API
+# Sample Test Scenarios for Order Processing API
 
-## Instructions for test execution
-
-### (1) Download this repo
-```
-git clone git@github.com:kenf128/executable_spec.git
-cd api_tests
-```
-
-### (2) Install required framework
-```
-npm install
-```
-
-### (3) Set URL to API
-```
-export API_URL=http://localhost:51544/v1
-# substitute URL for the API under test
-```
-
-### (4) Run tests
-```
-npm test
-
-Testing http://localhost:51544/v1
+```Testing http://localhost:51544/v1
 
   Order Processing API
     Place Order
