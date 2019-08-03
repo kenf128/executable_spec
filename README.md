@@ -4,7 +4,7 @@
 
 ### (1) Download this repo
 ```
-git clone git@github.com:kenf128/api_tests.git
+git clone git@github.com:kenf128/executable_spec.git
 cd api_tests
 ```
 
@@ -22,10 +22,7 @@ export API_URL=http://localhost:51544/v1
 ### (4) Run tests
 ```
 npm test
-```
 
-#### Sample test output:
-```
 Testing http://localhost:51544/v1
 
   Order Processing API
